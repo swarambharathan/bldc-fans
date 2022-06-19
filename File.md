@@ -37,4 +37,3 @@ consumer appliances. Ceiling fans were the first target of this program. Since t
 program, many startups have come with the idea of ‘BLDC fans’ which are usually 5-star rated
 and thus are highly energy efficient.
 
-![BLDC Fan](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Circle-icons-image.svg/768px-Circle-icons-image.svg.png?20160314153703)
