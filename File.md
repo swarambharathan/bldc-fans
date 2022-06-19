@@ -2,7 +2,7 @@
 
 In India, most of the common people depends on ceiling fans to reduce the hot temperature
 during summer season. Now-a-days improvised fans are available in the market. Usually electric
-fans work on the principle of electromagnetic induction. It works with the help of an electric motor
+fans work on the principle of **electromagnetic induction**. It works with the help of an electric motor
 which is embedded with coil of wire around a metallic core. As the current passes through the coils
 of wire, it produces rotational motion due to electromagnetic induction. Usually, alternative current
 is used in ceiling fan as it being connected directly to a power source. This power source help in
@@ -36,4 +36,5 @@ intent to rate appliance on its energy consumption parameter and promote energy-
 consumer appliances. Ceiling fans were the first target of this program. Since the launch of this
 program, many startups have come with the idea of ‘BLDC fans’ which are usually 5-star rated
 and thus are highly energy efficient.
+![alt text](mmap.png)
 
