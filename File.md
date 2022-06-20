@@ -32,9 +32,23 @@ and monitors various programs for improving energy efficiency. They are the ones
 
 energy star ratings which is on electronic appliances like ACs, refrigerators, washing machines etc.
 BEE has started a program called Super-Efficient Equipment Program in February 2012 with the
-intent to rate appliance on its energy consumption parameter and promote energy-efficient
+intent to rate appliance on its nergy consumption parameter and promote energy-efficient
 consumer appliances. Ceiling fans were the first target of this program. Since the launch of this
 program, many startups have come with the idea of ‘BLDC fans’ which are usually 5-star rated
 and thus are highly energy efficient.
-![alt text](mmap.png)
+
+![Doc3](https://user-images.githubusercontent.com/107342792/174650183-61b005cf-9f51-4283-ad9c-81d9ba29d2e8.png)
+	
+  
+  
+  Normal fans work on the basis of a capacitor but bldc doesn't require any capacitors. Most of the problems in conventional type fans can be rectified using BLDC fans. DC fans use less energy up to 70% less than a standard AC fan. They are extremely quiet as it doesn't produce any noise. More options are available, speed options as well as reverse function on the remote is possible. Generally it is faster to start, to stop and change speed. The motor is more compact and lighter, which allows for a slimmer motor design. All these qualities are embedded in bldc fans. Speed controllability in common electric fans was a difficult task. Problem was solved with the introduction of bldc fans. Another peculiarity is its high efficiency and long lifetime expectations. This motors works either by hall sensors or sensor less.
+In BLDC technology there is advanced energy efficiency. Efficient of 100% copper Motor with just 43W power consumption. Another peculiarity is the bidirectional rotation, clockwise and Anti clockwise operation suitable for all seasons. High air delivery of 260 m3/ min with air flow: 9180 Cfm. Natural, sleep and normal wind mores are there for your different air needs. Whisper quiet operations is embedded in it for super smooth air flow with BLDC motor and aerodynamic blades. Rest free aerodynamic blades are install for uniform air circulation and added spring for longer operations. RF remote helps to control all the features of the fan from any corner of the room.
+  The bldc motor generate more twisting force which makes the motor hyper efficient. Therefore, the motor consumes up to 50 % less power than its typical AC counterpart. Furthermore, the BLDC motor keep its circuit cool by ensuring minimal heat generation which drastically extents the life and reliability of the Motor. Equipped with the bidirectional rotation feature, the fan is designed to rotate both in clockwise and anti-clockwise direction to provide the required affect as per the season. The blades run anti-clockwise in the summer to blow air downwards and creates a cooling breeze. In winters, the clockwise movement of the blades at a low speed circulates the warm air downwards to warm up the area. The specially designed aerodynamic blades ensure high air delivery along with consistent air spread and uniform air circulation. The resilience of the ABS material provides added strength to the blades for longer operation and keeps the fan in pristine condition even after years of use. Advanced bldc motor makes the fan whisper quite for a truly serene ambience. All the features of the fan can be controlled from any corner of the room with the radio frequency remote which does not require you to point the remote towards the fan. It is equipped with an additional safety wire which helps to secure the fan motor with the ceiling hook to prevent the motor from falling in case the fan motor detaches from the pipe rod. Inverter Stabilization technology is also instilled in it. Runs consistently in the same speed even with the fluctuating input voltage. More than two years warranty is also provided.
+  
+
+![Doc3](https://user-images.githubusercontent.com/107342792/174650826-c89ad8c6-6da3-4dea-9a34-3a80d47fe661.jpg)
+
+
+Top brands leading in the market for BLDC ceiling fans are Superfan by Versa Drives, Atomberg Gorilla BLDC Fans, Jupiter Tricopter and Quadcopter BLDC fans, Orient Electric Eco BLDC fans, Crompton Energion BLDC fans etc. Whole world mainly focused on sustainable development 4 future conservation so they concentrated more on the production of green energy by reducing pollution. Above 55% of electricity is generated from fossil fuel l. Usage of fossil for fuel should be minimized it is the duty of every citizen to minimize the use of electricity. As a part of government policies India provide energy rating for all electrical appliances. BLDC fans are qualified for its efficiency. Lifespan of BLDC fan is three times better than ordinary conventional fans so problem of e-waste can be maximum reduced.
+
 
